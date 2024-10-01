@@ -1,2 +1,100 @@
+p {
+    font-family:"Arvo", sans-serif;
+    font-size: 20px;
+}
+li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.item{
+    font-family: sans-serif;
+    font-size:16px;
+}
+h1 {
+    text-decoration:underline;
+}
+#mainlink {
+    font-family:"Arvo", sans-serif;
+    font-size: 50px;
+}
+.title {
+    height: 10vw;
+    width: 100%;
+    background-color: rgb(99, 229, 229);
+    text-decoration: underline;
+    color:white;
+    text-align: center;
+    margin:0;
+    border:0;
+    padding:0;
+    top:0;
+    left:0;
+    right:0;
+}
 
+.sub1{
+    font-size: 50px;
+    width:24%;
+    background-color: aliceblue;
+    float:left;
+    border: 5px solid white;
+ 
+}
 
+.sub2{
+    font-size: 50px;
+    width:25%;
+    background-color: aliceblue;
+    float:left;
+    border: 5px solid white;
+}
+
+.sub3{
+    font-size: 50px;
+    width: 24%;
+    background-color: aliceblue;
+    float:left;
+    border: 5px solid white;
+}
+
+.sub4{
+    font-size: 50px;
+    width:24%;
+    background-color: aliceblue;
+    float:left;
+    border: 5px solid white;
+}
+
+.main{
+    width:100%;
+    height:100%;
+    background-color: blueviolet;
+}
+.mainhobby{
+    width:100%;
+    height:150vw;
+    background-color:whitesmoke
+}
+.mainwelcome{
+    width:100%;
+    height:100%;
+    background-color: cornflowerblue;
+}
+.mainplan{
+    width:100%;
+    height:100%;
+    background-color: cadetblue;
+}
+a:hover{
+    color:violet;
+}
+
+div{
+    margin:0;
+    border:0;
+    padding:0;
+}
+
+#collegepic{
+    float:left
+}

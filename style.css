@@ -210,7 +210,7 @@ a{
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    object-fit: cover;
+    object-fit: cover; /* Resize object to fit container*/
 }
 
 #ceo div {
@@ -255,7 +255,7 @@ a{
 
 /* Individual Item Purchase Page*/
 
-#itembody{/*Parent*/
+#itembody{
 display: flex;
 flex-direction: row;
 height:100%;
@@ -330,7 +330,7 @@ width:100%;
 }
 
 
-/* Item information section. Takes up other half of the page.*/
+/* Item information section. Takes up right half of the page.*/
 #iteminfo {
     height: 100%;
     width: 50%;
@@ -351,7 +351,7 @@ width:100%;
 }
 
 .itemdescription {  
-    margin: 15px 0;
+    margin: 15px;
 }
 
 .itemdimensions {
@@ -366,10 +366,9 @@ width:100%;
 
 /*Contacts Section*/
 
-/* General Styling */
 #contact {
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 0;
     padding: 20px;
     font-family: 'Merriweather', serif;
     line-height: 1.6;
@@ -397,7 +396,7 @@ width:100%;
 }
 
 #contact ul li {
-    margin: 10px 0;
+    margin: 10px;
 }
 
 /* Retailer Logos */

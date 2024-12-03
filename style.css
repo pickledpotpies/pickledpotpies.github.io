@@ -47,8 +47,8 @@ a{
 }
 
 #logo{
-    width: 80px;
-    height: 60px;
+    width: 5vw;
+    height: 9vh;
     align-self: flex-start; /* Aligns logo to the top of child5 */
     margin-left: auto; /* Pushes the logo to the right */
     margin-top: -7px; /* Adjust as needed to bring it closer to the top */
